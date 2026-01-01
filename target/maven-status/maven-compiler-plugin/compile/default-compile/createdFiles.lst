@@ -1,0 +1,6 @@
+com\mycompany\dhcp_project\DHCP_Client.class
+com\mycompany\dhcp_project\LeaseDB.class
+com\mycompany\dhcp_project\DHCP_GUI.class
+com\mycompany\dhcp_project\DHCP_Server.class
+com\mycompany\dhcp_project\DHCP_Project.class
+com\mycompany\dhcp_project\Lease.class
